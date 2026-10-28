@@ -1,0 +1,343 @@
+{
+  "packaging_date": "2026-10-28",
+  "archive_type": "code only",
+  "copies": [
+    {
+      "file": "original_engine/src/anchoring_study/__init__.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "1aa7b510e4059ee6377ad3ffa2a8196e199a2e7e19adc22432489478be2e50d0",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/analysis.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "a32e951664d84e22e2fda7373e663e9985c98f3007e475f1335efcf4a646c7a7",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/cases.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "d56925d555ff223f169fbef3ab44e59315a3074ddb2540c5c5a597d01a56f086",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/config.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "becda0e22e02e8032eb0f083463875e6b4b3be5289ed5476bafdf814417eb5c0",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/generation.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "e12d223d82fcd0308d525b34017ab83e0e6594f9f7890e0fe3489f93b688b3e8",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/io_utils.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "3781e74fb2f71c860b35e0b18315b9948ddd96df82b109b0ee68cc21ca2c02b3",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/prompts.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "cfccd6fc4f46c2de2c7c9548404bcee106caf211c4a47f3c681409c68d735247",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/qc.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "23c80467b89eb427d9a24ed0226d77fdf865d29d8b57c5a60168adae34562821",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/ratings.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "0d133acd3ec46eadbafe6e271f59795b2055fd58844a8f84f17fa20b3bbd5a8e",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/schemas.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "24d6bde9519d4473a94dcab36923e08de56dbe70e99d657ef516e098d024dcfc",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/src/anchoring_study/tasks.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "c7724c0af40734b49647ed6ddf0437218cc86507c30bf65a829b39824d259d11",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/00_check_environment.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "eedb253d6a90f173a7ce9232e333ac083ae5f8f7eedcb176536ded722514e8c7",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/01_validate_cases.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "e83ad02b65f98d47aca10ec4cf05f403d01151efb73868914ac502a07e3dd154",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/02_build_tasks.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "060d2c2a1dc3b5a1f308a3ad803e5a08a6fbe27c8b7897e096a7b80c93853645",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/03_select_stability_tasks.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "01f68be9c660222c6f02c4390677acf7eeb26de08899098cc14151906727a613",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/03_test_api.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "449c0e5116366ac48dbec23070e31ccfe7e5c5a7842d0f71070303a7747a602e",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/03_test_local.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "f7ebeb04ac007fe1b1850719cb0859ab2ea338a67871e65adee41b05858e64df",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/04_run_generation.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "c3dd7f395d4ffa334b2fc66398dc8a1a95616cd3bcd47f6c27547b71cec1eb15",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/05_quality_control.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "9db4a4aae207e3d787fc07cd989c572205e00ba20014186af4cc2a14dc035882",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/05a_canonicalize_successes.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "0e5e835569793caa4aff54531f1be0fecddb1139713de22a89831723f2c4c2c5",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/06_export_blinded_ratings.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "3df43bd4191861bddd84478ab0acd2e71654a3d76f25dd10c9322c1a90f40229",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/07_interrater_reliability.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "4c68cfef3387fbc789b9b7d27e8fedb9a36385201c511ed883a0db31570a7c15",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/08_make_adjudication_file.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "fe5789227884682a3c2ad23dde274384b8c083c9945137a4e7bdbc37529389f4",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/09_finalize_dataset.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "fdef64fbbfb2ed13e0f3d5f236bc860f2217e2560d708d1ac849d1b229b613d8",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/10_analysis.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "139aa9dcd29ca806cb8544ac1e8b62f1efd2d4d8003089dd306ad6b93d0ffbc5",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/11_import_web_gpt_drafts.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "9d5aa002013daafe30624b488034ce7f0102dc6efa03107bb69c8e1edd44b531",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/11_sensitivity_models.R",
+      "source_group": "D drive original research engine",
+      "source_sha256": "b07e58e224cf7c5f00b57639da48cf13b8330e31237bffcdaaaabd61a13ef2fe",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/12_export_case_expert_review_forms.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "17a84cccbed84de26eb1a4d0719f9939f06c7af8aa81d687a3078cd52026bce5",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/13_reconcile_formal_case_reviews.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "c77dd1ce16a3a5cc0f0eb9136b3ffeae42163b102f432a980fd12e5b2ee2b963",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/14_build_web_case_revision_prompts.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "edba41ad767f0d78c55d396e6dde638d5381558e18bebae454c155889c8dcdc6",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/15_import_web_gpt_revisions.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "be5bc13df7312e78cc4e1af9f269648dbf427122f9678f9a1017ef33b40208fb",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/16_build_formal_approved_candidate_registry.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "46c2ae2440c4785902f75fa9ea7e2f1fa0736de6248663f88b143e7c1f6a3242",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/17_lock_formal_case_set.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "671c38dbc3ec540b8ca0cfa9387daa56fd2f8fa1c3b579a131c6a31fc711e02b",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/18_audit_formal_prefreeze.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "551e6991f0f7247b72e20d5a1c66e04369699a346d9265a40cfd1d292046b596",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/19_run_formal_all.ps1",
+      "source_group": "D drive original research engine",
+      "source_sha256": "55a66a396ebef885e9a875a79318942658adba7ec96fef759a4566749f57acca",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/20_formal_status.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "9567b059d7e128ae6943c9ac2c7616aa3641d9ab246f33d440ab7791b883dfb3",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/21_check_stage_terminal.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "96315227d5e4d2ed6d66cb611c18625e82ed122f5c4654f1d7281705f6d4bcd8",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/22_freeze_formal_generation.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "485ee314ca4144ed2c00f74ed4174ff4516f759d2fa7c6c8e19d5cea5bf76ac8",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/23_freeze_formal_scoring_export.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "14dda70489c5125bb5cc6f6874b7e85e59b28b3c7ecb4c66e4c65d525a70aba0",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/24_select_formal_human_gold_sample.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "4eea2ff72c3855f3e899d792bd49bca93bc4c020aa73db0823ecb45561484618",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/25_run_secondary_judge.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "3ea4a0458500df9559d633519d5cba87771bbe2e50c6ad34530760397c5a96b2",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/26_qc_secondary_judge.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "1abaa4044852902f36c9feede9a0d8a70c856b046e6c303a55b85fb5790efe95",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/27_compare_pilot_judges.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "f1b02a96a9b758d201c2f37833e00baff166d33334fd42e8ae3d2b3fecddb514",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/29_prepare_formal_analysis_and_targeted_review.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "5a89855ff9501464940142d2755c2890196ca3cd433b1c9e4fbe45968b08d2d8",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/30_validate_completed_targeted_review.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "62c6c24139210b5bba6f4a03b9b279121b3852b61f8bae76fe0065fa29bdcf09",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/31_finalize_formal_analysis_dataset.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "04aeeb5866006d172f4ccaa074839b64d42db4708d4c108a3b86f6b0f4c404c1",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/scripts/32_formal_sensitivity_analysis.py",
+      "source_group": "D drive original research engine",
+      "source_sha256": "4ae11982ac404b6c6d099c444b42dd321f712406c6f1a2d30e3cc1201a2587f8",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/requirements.txt",
+      "source_group": "D drive original dependency specification",
+      "source_sha256": "d0814eff5f864a69829de00931f71b347c9a4cefbd74e35ca954986c08404e78",
+      "unchanged_copy": true
+    },
+    {
+      "file": "original_engine/requirements-lock.txt",
+      "source_group": "D drive original dependency specification",
+      "source_sha256": "940ba93caf3ba79a2f168cea4f975f6e69f12d1c79a31016b16f34a204edf237",
+      "unchanged_copy": true
+    },
+    {
+      "file": "final_analysis/cluster_inference_original.py",
+      "source_group": "C drive subsequent cluster inference revision v3",
+      "source_sha256": "450e62f4d4f9bee937d6c34cae397b6717a8e658982149864bf842d8cc44ddd0",
+      "unchanged_copy": true
+    },
+    {
+      "file": "figures/figure3.R",
+      "source_group": "Submission Figure 3 plotting code",
+      "source_sha256": "029a24ed570e663d6f665dd7f28a01e1d8ae8e6b7c362e9f56b6eaf7e14d4305",
+      "unchanged_copy": true
+    }
+  ],
+  "source_code_comparison": {
+    "D_code_count": 68,
+    "comparisons": {
+      "C_Documents": {
+        "common": 68,
+        "identical": 68,
+        "different": [],
+        "only_D": [],
+        "only_other": []
+      },
+      "Desktop_research_package": {
+        "common": 65,
+        "identical": 65,
+        "different": [],
+        "only_D": [
+          "scripts/assemble_new_cases_manuscript_package_v1.py",
+          "scripts/build_manuscript_v2.py",
+          "scripts/verify_manuscript_package_v1.py"
+        ],
+        "only_other": []
+      }
+    }
+  },
+  "new_files": [
+    "run_final_analysis.py",
+    "figures/prepare_figure3_input.py",
+    "requirements-final-analysis.txt",
+    "README.md",
+    "PROVENANCE.json",
+    "SHA256SUMS.txt"
+  ]
+}
